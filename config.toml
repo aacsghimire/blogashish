@@ -99,9 +99,11 @@ url = "https://notes.ashishghimire.com"
 [params.giscus]
 enable = true
 repo = "aacsghimire/blogashish"
-repo_id = "594366212"
+repo_id = "R_kgDOI21PBA"
 category = "Comment"
-category_id = ""
+data-mapping = "title"
+category_id = "DIC_kwDOI21PBM4CUDKI"
 input_position = "top"
 theme = "light_tritanopia"
 lang = "en"
+data-input-position = "top"
