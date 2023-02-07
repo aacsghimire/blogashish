@@ -25,7 +25,7 @@ Now USA and India share love of China Equally, it is a little difficult task for
 
 # WHY?
 
-India is more aligned towards dictatorship, that means Government can take action without real approvement from public. If you didn’t know recently many well known VPNs who were forced to leave the country. Reason: They will not share user data with government. This is story for another time..
+India is more aligned towards dictatorship, that means Government can take action without real approvement from public. If you didn’t know recently many well known VPNs who were forced to leave the country. Reason: They will not share user data with government. This is story for another time. However you can find more info on this [Nord VPN Blog](https://nordvpn.com/blog/indian-servers-removal/)
 
 As in USA They are Powerful and Bigger Control Freak but they have to do things subtly so they can preach other country and do things in name of FREEDOM so they are collecting proofs and working their way to convince public, which in my opinion is justified this time. SO its getting Banned.
 
