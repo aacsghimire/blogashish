@@ -1,0 +1,44 @@
+<style >
+  .thumbnail {
+    float: right;
+    margin-right: auto;
+    max-width: 192px ;
+    max-height: 108px ;
+  }
+  .thumb{
+    /* width: 20%; */
+    float: right;
+    flex: 1;
+    max-width: 288px ;
+    max-height: 162px ;
+    margin-right: 20px;
+  }
+  
+</style>
+
+<div class="post-preview">
+  
+  <a href="{{ .RelPermalink }}">
+
+      <h2 class="post-title">{{ .Title }}</h2>
+      {{ with .Params.subtitle }}
+      <h3 class="post-subtitle">{{ . }}</h3>
+      {{ end }}
+      <div class="thumb">
+        <img class="thumbnail" src="{{ .Params.thumbnails }}" />
+      </div>
+      <div class="post-content-preview">
+        {{ if isset .Params "description" }} {{ index .Params "description" }}
+        {{ else }}
+        {{ .Summary | plainify | truncate 180 }}
+        {{ end }} 
+      </div>
+  </a>
+
+  <p class="post-meta">
+      Posted by {{ with $.Params.author }} {{ $.Params.author }} {{ else }} {{ .Site.Params.author }} {{ end }} on {{ .Date.Format "Mon, Jan 2, 2006" }}
+  </p>
+
+</div>
+
+<hr>
