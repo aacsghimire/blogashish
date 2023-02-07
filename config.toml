@@ -2,7 +2,7 @@ baseURL = 'https://blog.ashishghimire.com'
 languageCode = 'en-us'
 
 title = 'Ashish Blog'
-theme = 'hugo-themes-puppet'
+theme = 'hugo-theme-puppet'
 
 paginate = 3
 
