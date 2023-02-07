@@ -1,2 +1,2 @@
 # graphics
-Netlify graphics.ashishghimire.com
+Netlify blog.ashishghimire.com
