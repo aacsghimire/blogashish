@@ -2,7 +2,7 @@
 title: "Why it is Impossible for Nepal to Ban TikTok?"
 date: 2023-02-07T12:54:02+11:00
 draft: false
-description : "As India and USA are banning TikTok, country like Nepal fail to do so."
+description : ""
 subtitle : ""
 header_img : "/images/tiktok.jpg"
 thumbnails : "/images/tiktok.jpg"
