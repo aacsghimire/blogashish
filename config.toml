@@ -95,3 +95,13 @@ url = "https://techhub.social/@aacsghimire"
 [[params.friends]]
 name = "Notes"
 url = "https://notes.ashishghimire.com"
+
+[params.giscus]
+enable = true
+repo = "aacsghimire/blogashish"
+repo_id = "594366212"
+category = "Comment"
+category_id = ""
+input_position = "top"
+theme = "light_tritanopia"
+lang = "en"
