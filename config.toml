@@ -51,7 +51,7 @@ weight = 20
 [[menu.main]]
 identifier = "notes"
 name = "My Notes"
-url = "https:/notes.ashishghimire.com/"
+url = "https://notes.ashishghimire.com/"
 weight = 50
 [[menu.main]]
 identifier = "dashboard"
