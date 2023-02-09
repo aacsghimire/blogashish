@@ -1,6 +1,6 @@
 ---
 title: "Setup Hugo on your PC"
-date: 2023-02-09T11:10:35+11:00
+date: 2023-02-09T02:14:35+11:00
 draft: false
 description : "Create a Blog site for completely Free, Edit your contents from Your PC/Laptop and Publish without hassle."
 subtitle : ""
@@ -12,7 +12,7 @@ tags : ["Hugo"]
 categories : ["Website"]
 series : ["Hugo"]
 comment : true
-slug: "hugo-blog"
+slug: "hugoBlog"
 ---
 
 For anyone who just want to see steps skip to Setup from Table of Content on right side of Page.

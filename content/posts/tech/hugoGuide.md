@@ -1,6 +1,6 @@
 ---
 title: "HugoGuide"
-date: 2023-02-09T13:04:06+11:00
+date: 2023-02-09T14:04:06+11:00
 draft: false
 description : "A step by step Guide to setup Domain, Hugo and Deploy"
 subtitle : ""
@@ -12,7 +12,7 @@ tags : ["Hugo","Cloudflare", "Github", "Website Security", "CDN"]
 categories : ["Website"]
 series : ["Hugo"]
 comment : true
-slug: "hugo-guide"
+slug: "hugoGuide"
 ---
 
 ## YOU ARE EARLY!! Post will be updated by Feb 12.
