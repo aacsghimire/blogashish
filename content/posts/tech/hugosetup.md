@@ -21,7 +21,7 @@ For anyone who just want to see steps skip to [setup](/posts/tech/hugoGuide).
 
 Alright I wanted to lecture you but that's not my forte. You should decide whether you want to write a *blog* or not. I surely can tell you advantages of it for you and for your audience:
 
-- *You* can share your thoughts and Knowledge freely without boundry and without loosing chain of thoughts.
+- *You* can share your thoughts and Knowledge freely without boundary and without loosing chain of thoughts.
 - *You* definately will increase your writing and story telling skills.
 - *You* can make your voice heard without being lost on the crowd.
 - *You* will be an independent creator, artist, writer, story teller, or Journalist.
