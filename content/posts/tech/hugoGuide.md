@@ -10,7 +10,7 @@ short : false
 toc : true
 tags : ["Hugo","Cloudflare", "Github", "Website Security", "CDN"]
 categories : ["Website"]
-series : ["Hugo"]
+series : []
 comment : true
 slug: "hugoGuide"
 ---

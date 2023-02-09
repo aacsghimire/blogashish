@@ -10,7 +10,7 @@ short : false
 toc : true
 tags : ["Hugo"]
 categories : ["Website"]
-series : ["Hugo"]
+series : []
 comment : true
 slug: "hugoBlog"
 ---
