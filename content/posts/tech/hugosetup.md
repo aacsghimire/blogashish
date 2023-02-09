@@ -37,13 +37,10 @@ Alright I wanted to lecture you but that's not my forte. You should decide wheth
 
 Alright that's all i got for why.
 
----
 ## Let's focus on **HOW**
 
 ---
 In order to start a new website you are going to need few things. I know it sounds scary at first but trust me, following this guide, you'll setup a site for yourself and don't even have to bother remembering one step after 10 minutes. This is going to be a little technical though, just a little.
-
----
 
 ## Things you Need
 
