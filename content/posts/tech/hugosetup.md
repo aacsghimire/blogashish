@@ -15,12 +15,11 @@ comment : true
 slug: "hugoBlog"
 ---
 
-For anyone who just want to see steps skip to Setup from Table of Content on right side of Page.
-
+For anyone who just want to see steps skip to [setup](/posts/tech/hugoGuide).
 >Who should write a Blog?
 >> Anyone that knows anything.
 
-Alright I wanted to lecture you but that's not my forte. You should decide whether you want to write a Blog or Not. I surely can tell you advantages of it for You and for your audience:
+Alright I wanted to lecture you but that's not my forte. You should decide whether you want to write a *blog* or not. I surely can tell you advantages of it for you and for your audience:
 
 - *You* can share your thoughts and Knowledge freely without boundry and without loosing chain of thoughts.
 - *You* definately will increase your writing and story telling skills.
@@ -34,9 +33,9 @@ Alright I wanted to lecture you but that's not my forte. You should decide wheth
  If you can follow guide.
 
 - *We* as your Audience can keep tabs and learn what you're good at.
-- *We* Can learn a new skill that we didn't even know was possible. 
+- *We* can learn a new skill that we didn't even know was possible.
 
-Alright that's all i got for Why.
+Alright that's all i got for why.
 
 ---
 
@@ -48,13 +47,13 @@ In order to start a new website you are going to need few things. I know it soun
 
 ## Things you Need
 
- You have to install following softwares and Make account on websites.
+ You have to install following softwares and make account on websites.
 
 ### Softwares
 
 - [Hugo](https://gohugo.io/)
-- [Github](https://github.com/) 
-- A text Editor: [Vscode](https://code.visualstudio.com/)
+- [Github](https://github.com/)
+- A text Editor: [VScode](https://code.visualstudio.com/)
 
 ### Accounts
 
@@ -69,7 +68,7 @@ You are going to need to install the given softwares. I am going to explain but 
 
 - *Hugo* is a static Site Generator. It means  it is going to generate all the files that your website needs to run on the internet, things that will make your website functional and pretty.
 - *Github* is somewhere where we Keep our files of our Website.
-- *Cloudflare* is a big one. This not only Secures your site but will handle all the Technical side of your website. What we really need is 3 functions: 
+- *Cloudflare* is a big one. This not only Secures your site but will handle all the Technical side of your website. What we really need is 3 functions:
   - Create *SSL* so you have HTTPS.
   - *CDN: Content Delivery Network* : So your website loads in an instant from any part of the world.
   - *Pages* takes your file from Github and Builds a proper website. Also called *Hosting*
@@ -79,4 +78,4 @@ You are going to need to install the given softwares. I am going to explain but 
 
 ## Summary
 
-Once you setup your site rest is to just write and Post like you'd do on Facebook or Twitter. Let's [SETUP](/posts/tech/hugoGuide)
+Once you setup your site rest is to just write and Post like you'd do on Facebook or Twitter. Let's [setup.](/posts/tech/hugoGuide)
