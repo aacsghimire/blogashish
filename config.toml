@@ -9,7 +9,7 @@ paginate = 3
 enableInlineShortcodes = true
 enableEmoji = true
 
-googleAnalytics = "G-1N1YQXV33M"
+googleAnalytics = "G-2RHJH43BKX"
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
