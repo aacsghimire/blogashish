@@ -93,8 +93,8 @@ id = "aacsghimire"
 url = "https://techhub.social/@aacsghimire"
 
 [[params.friends]]
-name = "Notes"
-url = "https://notes.ashishghimire.com"
+name = "Ayur Blogs"
+url = "https://ayurblogs.com"
 
 [params.giscus]
 enable = true
