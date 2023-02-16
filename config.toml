@@ -4,7 +4,7 @@ languageCode = 'en-us'
 title = 'Ashish Blog'
 theme = 'hugo-theme-puppet'
 
-paginate = 3
+paginate = 8
 
 enableInlineShortcodes = true
 enableEmoji = true
