@@ -5,7 +5,7 @@ draft: false
 description : "Create a Blog site for completely Free, Edit your contents from Your PC/Laptop and Publish without hassle."
 subtitle : ""
 header_img : ""
-thumbnails : "/images/hugo.png"
+thumbnails : "/images/hugo.webp"
 short : false
 toc : true
 tags : ["Hugo"]

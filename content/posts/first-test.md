@@ -19,7 +19,7 @@ comment : true
 ---
 # Testing First site 
 I am going to add some file here and check if the image works.
-![Check Image](/images/testimage.png)
+![Check Image](/images/testimage.webp)
 I am testing a short feature and unaware what it does.
 I am testing a short feature and unaware what it does.
 I am testing a short feature and unaware what it does.

@@ -1,11 +1,11 @@
 ---
 title: "HugoGuide"
 date: 2023-02-09T13:04:06+11:00
-draft: false
+draft: true
 description : "A step by step Guide to setup Domain, Hugo and Deploy"
 subtitle : ""
 header_img : ""
-thumbnails : "/images/hugo.png"
+thumbnails : "/images/hugo.webp"
 short : false
 toc : true
 tags : ["Hugo","Cloudflare", "Github", "Website Security", "CDN"]
