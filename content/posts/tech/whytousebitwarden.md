@@ -24,7 +24,7 @@ Alright, let's get into it.
 Think of a book that has every word in English language, does it even exist? Everything? EVERYTHING? Well, it does its called >! Dictionary. A normal dictionary with 600,000 words would be 250MB. If you look for a big wordlists in google today you can download almost 45 GB of it. Point is, its not just dictionary terms that are vulnerable today but mixtures of letters, numbers and symbols too. I mean you don't want to put '_Passw0rd_ or _Pa$$w0rd_' as your password, the hackers are smart enough to keep those terms in the wordlists. Not just that, Through the years, with so many breaches, we have collected a huge database of passwords around the world. Real world passwords used in real life. So there we have it a big book of passwords. Oh also these breaches do have id's tied to them. There's a good chance you'd find your id with your password next to it. But don't worry yet if you chose a strong password or haven't been a victim of breach you'd be safe.
 Here, let's go to a site that tells us if our password is secure or not or your username/email. Go to [haveibeenpwned.com](https://haveibeenpwned.com), type your email and see what it says. 
 
-![haveibeenpwned](../images/haveibeenpwned.webp)
+![haveibeenpwned](images/haveibeenpwned.webp)
 
 Look at That. I am safe, are you?
 Now next Step!
