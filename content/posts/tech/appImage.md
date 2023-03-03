@@ -5,7 +5,7 @@ draft: false
 description : "Installing AppImage on your Linux System."
 subtitle : ""
 header_img : ""
-thumbnails : ""
+thumbnails : "/images/appimg.webp"
 short : false
 toc : true
 tags : ["Linux", "appImage", "Software", "Install"]
