@@ -2,18 +2,26 @@
   .thumbnail {
     float: right;
     margin-right: auto;
-    max-width: 192px ;
-    max-height: 108px ;
+    max-width: 147px ;
+    max-height: 98px ;
   }
   .thumb{
     /* width: 20%; */
     float: right;
     flex: 1;
-    max-width: 288px ;
-    max-height: 162px ;
-    margin-right: 20px;
+    max-width: 147px ;
+    max-height: 98px ;
+    /* margin-right: 20px; */
+    margin-bottom: auto;
+    align-items: center;
   }
-  
+  .post-title{
+    width: 80%;
+  }
+  .post-content-preview{
+    width: 70%;
+  }
+
 </style>
 
 <div class="post-preview">
@@ -24,9 +32,11 @@
       {{ with .Params.subtitle }}
       <h3 class="post-subtitle">{{ . }}</h3>
       {{ end }}
-      <div class="thumb">
-        <img class="thumbnail" src="{{ .Params.thumbnails }}" />
+      {{ with .Params.thumbnails }}
+      <div class="thumbnail">
+        <img src="{{ . }}" alt="Thumbnail" />
       </div>
+    {{ end }}
       <div class="post-content-preview">
         {{ if isset .Params "description" }} {{ index .Params "description" }}
         {{ else }}
@@ -34,11 +44,9 @@
         {{ end }} 
       </div>
   </a>
-
   <p class="post-meta">
-      Posted by {{ with $.Params.author }} {{ $.Params.author }} {{ else }} {{ .Site.Params.author }} {{ end }} on {{ .Date.Format "Mon, Jan 2, 2006" }}
+    {{ .Date.Format "Mon, Jan 2, 2006" }}
   </p>
-
 </div>
 
 <hr>
