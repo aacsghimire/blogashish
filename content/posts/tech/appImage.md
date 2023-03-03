@@ -2,7 +2,7 @@
 title: "Install AppImage"
 date: 2023-02-17T03:10:16+11:00
 draft: false
-description : "Installing AppImage on your Linux System."
+description : "Installing AppImage on your Linux System. AppImages are Linux Filetypes that comes packaged in One and are secure."
 subtitle : ""
 header_img : ""
 thumbnails : "/images/appimg.webp"
