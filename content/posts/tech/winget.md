@@ -4,7 +4,7 @@ date: 2023-03-04T01:39:38+11:00
 draft: false
 description : "Winget is CLI tool that Installs, Updates and List All softwares on your windows machine, similar to apt-get, brew, pacman, nix, etc"
 subtitle : ""
-header_img : ""/images/winget.webp"
+header_img : "/images/winget.webp"
 thumbnails : "/images/winget.webp"
 short : false
 toc : true
