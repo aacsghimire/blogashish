@@ -39,15 +39,15 @@ Head straight to terminal and execute following command:
 
 - Winget Help
 
-    `winget --help`
+        winget --help
 
 - See winget version
 
-    `winget --version`
+        winget --version
 
 - Find Winget Packages
 
-    `winget find vscode`
+        winget find vscode
 
 This will look for vscode in the Packages.
 'Id' is very useful here, you may want to copy it.(just select and right click)
@@ -56,7 +56,7 @@ Lets install VScode.
 
     winget install Microsoft.VisualStudioCode` (right click for paste)
 
-So installation is done. 
+So installation is done.
 
 Lets see the list,
 
