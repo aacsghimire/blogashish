@@ -26,7 +26,7 @@ and everything, well most of it.
 
 Winget is an Open Source Windows Package Manager designed to run from Command Line Interface (Terminal). From one simple command you can Install your favorite package, uninstall non-necessary ones and Update, those needed to be updated. Also it lists all the package you have installed in your system, and export it. You can format your pc and install all those packages by importing them, or give it to your non tech savvy friends so they can install those cool softwares.
 
-## Let's Dive into it.
+## Let's Dive into it
 
 To install Winget:
 
@@ -37,30 +37,41 @@ Once Installed maybe, restart your pc.
 
 Head straight to terminal and execute following command:
 
-Winget Help
-`winget --help`
+- Winget Help
 
-See winget version
-`winget --version`
+    `winget --help`
 
-Find Winget Packages
-`winget find vscode`
+- See winget version
+
+    `winget --version`
+
+- Find Winget Packages
+
+    `winget find vscode`
+
 This will look for vscode in the Packages.
 'Id' is very useful here, you may want to copy it.(just select and right click)
 
 Lets install VScode.
-`winget install Microsoft.VisualStudioCode` (right click for paste)
 
-So installation is done. Lets see the list,
-`winget export -o C:\Path\to\exported.json`
+    winget install Microsoft.VisualStudioCode` (right click for paste)
 
-similary to import
-`winget import -i C:\Path\to\exported.json`
+So installation is done. 
+
+Lets see the list,
+
+    winget export -o C:\Path\to\exported.json
+
+Similary to import
+
+    winget import -i C:\Path\to\exported.json
 
 ## Upgrade
 
 To upgrade all available packages:
-`winget upgrade --all`
+
+    winget upgrade --all
+
 Follow the Prompts and....
 Done!
 
