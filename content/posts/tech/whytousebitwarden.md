@@ -12,6 +12,7 @@ tags : ["security", "password", "guide"]
 categories : ["CyberSecurity"]
 series : []
 comment : true
+slug: "password-managers"
 ---
 
 Let's see how many account do you have in the internet? Facebook, Gmail, Instagram, Twitter, <mark>Bank Account</mark>. Ah yeah Bank Account. Do you use same password for everything or atleast multiple accounts and never even changed that 2010 password you created and its everywhere. That my friend is a Red Flag.
@@ -42,8 +43,34 @@ Now we create strong passwords or pass phrases or pass-novels. You got the point
 A password manager is something that saves your Password. Your device whether Apple, Android or your PC browser, already comes with password mananger. Remember when you go to a site and the id and passwords are already there? and everytime you use username and password in new site, there's that annoying popup asking you to save your password. Yeah, that's password manager.
 Even google and apple saves your passwords.
 
-For google go to [passwords.google.com](https://passwords.google.com). Sign in and there are your passwords saved in google.
+### Native or Default
 
-<!-- ### Why save your password?
+For google, go to [passwords.google.com](https://passwords.google.com). Sign in and there are your passwords saved in google.
+For browsers like chrome, Edge, Safari, go to Settings>Profile>Passwords.
+These comes with default so its easy for you to have multiple passwords.
 
-A human brain can only handle so many phrases, especially, complicated ones. My sibling resets password everytime they have to use it. -->
+---
+
+<i class="fab fa-apple"> Apple | </i> Settings \> Passwords
+
+<i class="fab fa-android"> Android | </i> Settings \> General Management \> Passwords and Autofill.
+
+<i class="fab fa-edge"> Microsoft Edge | </i> Settings \>Profile \> Passwords. 
+
+<i class="fab fa-firefox"> Firefox | </i> Settings \> Privacy & Security \> Logins and Passwords \> Saved Logins.
+
+---
+
+### Third Party Softwares
+
+Among third party softwares there are Some Paid, others free. [NordPass](https://nordpass.com/), [LesPass](https://www.lesspass.com/), [KeePassXC](https://keepassxc.org/), and one of the Popular [Bitwarden](https://bitwarden.com).
+
+These Password Managers do not only save but also helps you to create passwords for you. But do not forget your Master Password and generate a strong one that you cna remember, One complex password should't be tough to remember, have a faith.
+
+# Wrap Up
+
+- Do Not use same passwords Multiple Times
+- Use Complex Passwords
+- Generate Passwords more than 12 letters.
+- Use Password Managers to Save or help you create Passwords
+- Create a strong Master Password and Remember it.
