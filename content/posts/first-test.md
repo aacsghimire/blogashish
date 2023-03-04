@@ -40,3 +40,6 @@ I am testing a short feature and unaware what it does.
 Just testing Toc
 ## Testing sub-Toc
 And sub Toc
+// Setup Notes
+        
+    > :bulb: **Tip:** Here Icon is place of your icon and Exec is location of your application. We are using Minecraft as example here. Replace these with your folder and file names.
